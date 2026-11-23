@@ -1,0 +1,20 @@
+{
+  "badges": {
+    "owner": {
+      "label": "Owner",
+      "desc": "Yapify owner",
+      "icon": "https://user59473.na.imgto.link/public/20261122/47f5671ca238164a84d0e024-israel-3.avif"
+    },
+    "tester": {
+      "label": "Beta Tester",
+      "desc": "Yapify beta tester",
+      "icon": "https://cdn3.emoji.gg/emojis/6722-tester.png"
+    }
+  },
+  "users": {
+    "karkmus": ["owner"],
+    "greninjite": ["tester"],
+    "krimsonek": ["tester"],
+    "vxl": ["tester"]
+  }
+}
