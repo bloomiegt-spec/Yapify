@@ -3,18 +3,36 @@
     "owner": {
       "label": "Owner",
       "desc": "Yapify owner",
-      "icon": "https://user59473.na.imgto.link/public/20261122/47f5671ca238164a84d0e024-israel-3.avif"
+      "icon": "https://imagepaste.org/v/47vkws89.png"
     },
     "tester": {
       "label": "Beta Tester",
       "desc": "Yapify beta tester",
       "icon": "https://cdn3.emoji.gg/emojis/6722-tester.png"
+    },
+    "developer": {
+      "label": "Developer",
+      "desc": "Yapify Developer",
+      "icon": "https://assets.grok.com/users/3468f5c2-75f2-4d1b-8354-999ccf12dab0/generated/3aa3990b-865a-4f67-9514-8838a0fc0257/image.png"
     }
   },
   "users": {
-    "karkmus": ["owner"],
-    "greninjite": ["tester"],
-    "krimsonek": ["tester"],
-    "vxl": ["tester"]
+    "karkmus": [
+      "owner",
+      "tester",
+      "developer"
+    ],
+    "greninjite": [
+      "tester"
+    ],
+    "krimsonek": [
+      "tester"
+    ],
+    "vxl": [
+      "tester"
+    ],
+    "horns": [
+      "tester"
+    ]
   }
 }
