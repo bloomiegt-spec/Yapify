@@ -17,15 +17,16 @@
     },
     "staff": {
       "label": "staff",
-      "desc": "Staff for Yapify",
-      "icon": "https://ibb.co/23qpWtnX"
+      "desc": "Test",
+      "icon": "https://i.ibb.co/N2xGtjVw/homeworkdirartifactsyapify-moderator-icon.png"
     }
   },
   "users": {
     "karkmus": [
       "owner",
       "tester",
-      "developer"
+      "developer",
+      "staff"
     ],
     "greninjite": [
       "tester"
