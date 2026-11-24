@@ -16,9 +16,14 @@
       "icon": "https://assets.grok.com/users/3468f5c2-75f2-4d1b-8354-999ccf12dab0/generated/3aa3990b-865a-4f67-9514-8838a0fc0257/image.png"
     },
     "staff": {
-      "label": "staff",
-      "desc": "Staff for Yapify",
+      "label": "Staff",
+      "desc": "Staff for Yapify!",
       "icon": "https://i.ibb.co/dvxmGF0/homeworkdirartifactsyapify-moderator-icon.png"
+    },
+    "ts": {
+      "label": "Trial Staff",
+      "desc": "Trial staff for Yapify!",
+      "icon": "https://i.ibb.co/J8ZgcmL/homeworkdirartifactsyapify-trial-mod-icon.png"
     }
   },
   "users": {
